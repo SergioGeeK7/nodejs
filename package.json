@@ -1,0 +1,38 @@
+// configuracion de npm del proyecto
+//npm install buscar dependencias de forma local, solo para la carpeta.
+//npm install connect
+
+// MIDDLEWARE 
+// senchalabs.org/connet
+
+//connet es  framework   ;
+
+//middleware ==  intermediario entre el la aplicacion y la respuesta, session, js;
+// express framwork 
+
+// app.js   app.get('/',function(req,res){res.send('hola')});
+
+//routes.js todos los milddears 
+
+//app.configure(function )
+
+{
+
+
+	"name": "package 1",
+	"description": "esto es una prueba",
+	"version": "0.0.0.1",
+	"dependencies":{
+		"socket.io": "0.9.x",
+		"express" "3.0.0"
+
+	},
+// entornos
+	"engines": {
+		"node": ">=0.10.x",
+		"npm":""
+	}
+
+
+
+}
